@@ -4,8 +4,18 @@ layout: default
 
 # magnus et horribilis
 
-Sometimes I make things
+fibrae et ferrum
 
 ![crate 1](http://i.imgur.com/u1zHaNf.jpg)
 
 ![crate 2](http://i.imgur.com/aP2PMgz.jpg)
+
+<video loop width="600" controls>
+  <source src="http://i.imgur.com/GUsHc8e.webm" type="video/webm">
+  Your browser does not support HTML5 video.
+</video>
+
+<video loop width="600" controls>
+  <source src="http://i.imgur.com/CWLe6eK.webm" type="video/webm">
+  Your browser does not support HTML5 video.
+</video>

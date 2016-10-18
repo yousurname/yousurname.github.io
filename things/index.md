@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# things
+# [about](/about/) | [things](/things/) | [contact](/contact/)
 
 ![crate 1](http://i.imgur.com/u1zHaNfl.jpg)
 

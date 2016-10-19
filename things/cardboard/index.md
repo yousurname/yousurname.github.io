@@ -1,8 +1,6 @@
 ---
-layout: default
+layout: things
 ---
-
-# [things](/things/)
 
 <video loop width="600" controls>
   <source src="http://i.imgur.com/GUsHc8e.webm" type="video/webm">

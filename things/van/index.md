@@ -1,7 +1,5 @@
 ---
-layout: default
+layout: things
 ---
-
-# [things](/things/)
 
 ![way early inside](http://i.imgur.com/b1nxFYEl.jpg)

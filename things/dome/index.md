@@ -1,8 +1,6 @@
 ---
-layout: default
+layout: things
 ---
-
-# [things](/things/)
 
 ![sliced half dome 1](http://i.imgur.com/wUFHc9Fl.jpg)
 

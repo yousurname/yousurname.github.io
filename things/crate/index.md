@@ -1,8 +1,6 @@
 ---
-layout: default
+layout: things
 ---
-
-# [things](/things/)
 
 ![crate 1](http://i.imgur.com/u1zHaNfl.jpg)
 

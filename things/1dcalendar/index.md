@@ -2,7 +2,9 @@
 layout: things
 ---
 
-standalone one dimensional display of your upcoming google calendar events.  colors reflect custom calendar colors.  current hour pulses purple.  1 pixel = 1 hour.
+standalone one dimensional display of your upcoming google calendar events.  colors reflect custom calendar colors.  current hour pulses purple.
+
+1 pixel = 1 hour
 
 [WS2812 LED strip, diffuser, python, google calendar API, raspberry pi]
 
